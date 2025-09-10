@@ -1,2 +1,0 @@
-# soduku.html
-Soduku solver
